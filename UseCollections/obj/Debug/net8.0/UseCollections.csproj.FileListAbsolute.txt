@@ -1,0 +1,14 @@
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\bin\Debug\net8.0\UseCollections.exe
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\bin\Debug\net8.0\UseCollections.deps.json
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\bin\Debug\net8.0\UseCollections.runtimeconfig.json
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\bin\Debug\net8.0\UseCollections.dll
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\bin\Debug\net8.0\UseCollections.pdb
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.AssemblyInfoInputs.cache
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.AssemblyInfo.cs
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.csproj.CoreCompileInputs.cache
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.dll
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\refint\UseCollections.dll
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.pdb
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.genruntimeconfig.cache
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\ref\UseCollections.dll
