@@ -12,3 +12,4 @@ C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\
 C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.pdb
 C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.genruntimeconfig.cache
 C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\ref\UseCollections.dll
+C:\Users\Housseini\RiderProjects\UseCollections\UseCollections\obj\Debug\net8.0\UseCollections.sourcelink.json

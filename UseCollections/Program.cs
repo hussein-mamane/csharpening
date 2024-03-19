@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UseCollections.DoingLinQ;
+
 namespace UseCollections; // file scoped namespaces
 using UseCollections.Models;
-using NoOneCares; //how to use other namespace in the project
+using UseCollections.NoOneCares; 
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -19,7 +21,7 @@ internal class Program
             new (2,"The Thinker"),
             new (3,"I, Robot")
         ];
-        //explicit array
+        //explicit tuple array  is a thing in c#
         (int, string)[] array =
         {
             (1, "Mona Lisa"),
@@ -32,6 +34,7 @@ internal class Program
             Console.WriteLine(artwork);
         }*/
         // UseList.RunCode();
-        TimeManagement.RunCode();
+        // TimeManagement.RunCode();
+        Querying.RunCode();
     }
 }

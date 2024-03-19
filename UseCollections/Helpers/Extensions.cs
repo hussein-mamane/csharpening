@@ -1,6 +1,7 @@
 ﻿using UseCollections.Models;
 namespace UseCollections.Helpers;
 
+//Extension Methods
 public static class Extensions
 {
     public static bool IsTheFirst(this Artwork artwork)
