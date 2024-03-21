@@ -22,6 +22,7 @@ namespace UseCollections.NoOneCares // block scoped namespace, no using directiv
         {
             string[] arr = ["A","Z","E"];
             string[] arr2 = ["B","C","E"];
+            // Redundant lambda parameter explicit type specification
             ContainsAOrZ forA = (string[] arrParam) => { return arr.Contains("A") ? true : false; };//Redundant conditional ternary expression usage
             // ContainsAOrZ forZ = (string[] arrParam) => arr.Contains("Z");
             ContainsAOrZ forZ = ContainsZ;
