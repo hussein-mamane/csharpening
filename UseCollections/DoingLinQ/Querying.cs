@@ -27,11 +27,11 @@ public class Querying
         var result = from hero in heroes 
             where ! hero.Universe.Equals(Universe.Marvel)
             select hero.Name;
-        foreach (var obj in result)
-        {
-            Console.WriteLine(obj);
-        }
-        //IEnumerator also work for this and HashTable and Other things even if foreach is preferred
+        // foreach (var obj in result)
+        // {
+        //     Console.WriteLine(obj);
+        // }
+        //IEnumerator also work for this and HashTable and Other IEnumerable things but foreach is preferred
         var enumerator = result.GetEnumerator();
         while (enumerator.MoveNext())
         {
